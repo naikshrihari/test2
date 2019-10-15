@@ -1,1 +1,4 @@
-print(hello master)
+print("hello master")
+
+print("Hello")
+print("from cloud")
